@@ -86,8 +86,8 @@ Feel free to explore my projects below 👇
 
 ## 📫 How to Reach Me 🌍
 - **Email**: [patelsanskrati05@gmail.com](mailto:patelsanskrati05@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/sanskrati-patel](https://www.linkedin.com/in/sanskrati-patel/)  
-- **GitHub**: [github.com/SanskratiPatel](https://github.com/SanskratiPatel)  
+- **LinkedIn**: [linkedin.com/in/sanskrati-patel](https://www.linkedin.com/in/sanskrati-patel-b2464b223/)  
+- **GitHub**: [github.com/SanskratiPatel](https://github.com/sanskratiPatel)  
 
 ---
 
