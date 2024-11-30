@@ -1,7 +1,7 @@
 # 👨‍💻 Hello, I'm Sanskrati Patel 👋✨
 
 ## About Me 👨‍💻
-I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies** like **ReactJS** and **AngularJS**, I thrive on delivering innovative backend solutions using **Spring Boot** and **Django**. I am constantly learning and improving my skills to stay ahead of the tech curve.
+I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies** like **ReactJS** , I thrive on delivering innovative backend solutions using **Spring Boot** and **Django**. I am constantly learning and improving my skills to stay ahead of the tech curve.
 
 Feel free to explore my projects below 👇
 
