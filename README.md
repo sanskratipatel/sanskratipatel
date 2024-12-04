@@ -65,7 +65,7 @@ Feel free to explore my projects below 👇
 
 ## 🌱 Currently Learning 📚
 <div align="center">
-<img src="https://media.giphy.com/media/3o7aCPaK2hdGWO7m76/giphy.gif" alt="Learning Animation" />
+<img src="https://images.app.goo.gl/8VpMLdfjYNiUut1h9" />
 </div>  
 
 - **Cloud Computing**: ☁️ **AWS**, **Google Cloud**  
@@ -91,28 +91,3 @@ Feel free to explore my projects below 👇
 </div>
 
 
-
-- **Cloud Computing**: ☁️ **AWS**, **Google Cloud**  
-- **Machine Learning**: 🤖 **TensorFlow**, **Scikit-learn**, **PyTorch**  
-- **Mobile Development**: 📱 **Flutter**, **React Native**
-
----
-
-## 📝 Certifications 🏅
-- **Java Programming & Software Engineering Fundamentals** – **Coursera**  
-- **Python for Data Science and AI** – **Coursera**
-
----
-
-## 📫 How to Reach Me 🌍
-| Platform  | Link                                                                                       |
-|-----------|--------------------------------------------------------------------------------------------|
-| **Email** | [patelsanskrati05@gmail.com](mailto:patelsanskrati05@gmail.com)                            |
-| **LinkedIn** | [linkedin.com/in/sanskrati-patel](https://www.linkedin.com/in/sanskrati-patel-b2464b223/) |
-| **GitHub** | [github.com/SanskratiPatel](https://github.com/SanskratiPatel)                             |
-
----
-
-### 🌟 Let's build something amazing together! 🚀✨
-
-![Collaboration Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
