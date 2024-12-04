@@ -17,15 +17,20 @@ Feel free to explore my projects below 👇
 
 ## 🛠️ Skills & Expertise 💡
 
+## 🛠️ Skills & Expertise 💡
+
 ### **Languages & Frameworks**
-| Language/Framework     | Icon                                                                                  |
-|-------------------------|---------------------------------------------------------------------------------------|
-| **Java**               | ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)         |
-| **Python**             | ![Python Icon](https://img.icons8.com/color/48/000000/python.png)                    |
-| **C/C++**              | ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)             |
-| **Spring Boot**        | ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png)          |
-| **Django**             | ![Django Icon](https://img.icons8.com/material-outlined/48/000000/django.png)        |
-| **ReactJS**            | ![React Icon](https://img.icons8.com/ultraviolet/48/000000/react.png)                |
+<div align="center">
+
+![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**  
+![Python Icon](https://img.icons8.com/color/48/000000/python.png) **Python**  
+![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C/C++**  
+![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring Boot**  
+![Django Icon](https://img.icons8.com/material-outlined/48/000000/django.png) **Django**  
+![React Icon](https://img.icons8.com/ultraviolet/48/000000/react.png) **ReactJS**
+
+</div>
+                |
 
 ---
 
