@@ -2,45 +2,42 @@
 
 ![Banner](https://github.com/user-attachments/assets/2c6a1c54-52b9-469e-b325-c48f37f5c9a1)
 
-
-
 ## About Me 👨‍💻
 I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies** like **ReactJS**, I thrive on delivering innovative backend solutions using **Spring Boot** and **Django**. I am constantly learning and improving my skills to stay ahead of the tech curve.
 
 Feel free to explore my projects below 👇
 
 📬 **Reach me:**  
-📧 [patelsanskrati05@gmail.com](mailto:patelsanskrati05@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sanskrati-patel/) | 💻 [GitHub](https://github.com/SanskratiPatel)  
+<div align="center">
+<a href="mailto:patelsanskrati05@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/sanskrati-patel/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+<a href="https://github.com/SanskratiPatel"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" /></a>
+<a href="https://drive.google.com/file/d/1DtjYhihr4FFcvulhBjcrgp9zvZvYrXq6/view?usp=drive_link"><img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" /></a>
+</div>
 
 ---
-
-## 🛠️ Skills & Expertise 💡
 
 ## 🛠️ Skills & Expertise 💡
 
 ### **Languages & Frameworks**
 <div align="center">
-
-![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**  
-![Python Icon](https://img.icons8.com/color/48/000000/python.png) **Python**  
-![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C/C++**  
-![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring Boot**  
-![Django Icon](https://img.icons8.com/material-outlined/48/000000/django.png) **Django**  
-![React Icon](https://img.icons8.com/ultraviolet/48/000000/react.png) **ReactJS**
-
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
+<img src="https://img.icons8.com/material-outlined/48/000000/django.png" alt="Django" />
+<img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="ReactJS" />
 </div>
-                |
 
 ---
 
 ### **Databases & Tools 🗄️**
-| Tool/Database          | Icon                                                                                  |
-|-------------------------|---------------------------------------------------------------------------------------|
-| **MySQL**              | ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)                 |
-| **SQLite**             | ![SQLite Icon](https://img.icons8.com/color/48/000000/sql.png)                       |
-| **Git**                | ![Git Icon](https://img.icons8.com/color/48/000000/git.png)                          |
-| **Postman**            | ![Postman Icon](https://img.icons8.com/doodle/48/000000/postman-api.png)             |
+<div align="center">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" />
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+<img src="https://img.icons8.com/doodle/48/000000/postman-api.png" alt="Postman" />
+</div>
 
 ---
 
@@ -67,7 +64,33 @@ Feel free to explore my projects below 👇
 ---
 
 ## 🌱 Currently Learning 📚
-![Learning Animation](https://media.giphy.com/media/3o7aCPaK2hdGWO7m76/giphy.gif)  
+<div align="center">
+<img src="https://media.giphy.com/media/3o7aCPaK2hdGWO7m76/giphy.gif" alt="Learning Animation" />
+</div>  
+
+- **Cloud Computing**: ☁️ **AWS**, **Google Cloud**  
+- **Machine Learning**: 🤖 **TensorFlow**, **Scikit-learn**, **PyTorch**  
+- **Mobile Development**: 📱 **Flutter**, **React Native**
+
+---
+
+## 📝 Certifications 🏅
+
+- **[Python Basics Certification](https://www.coursera.org/account/accomplishments/verify/6SCRJWCE222Q)** – *Coursera*  
+- **[Multithreading in Java](https://olympus.mygreatlearning.com/courses/64164/certificate)** – *Great Learning*  
+- **[Java Programming](https://olympus.mygreatlearning.com/courses/12385/certificate)** – *Great Learning*  
+- **Java Programming & Software Engineering Fundamentals** – *Coursera*  
+- **Python for Data Science and AI** – *Coursera*  
+
+---
+
+### 🌟 Let's build something amazing together! 🚀✨
+
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Collaboration Animation" />
+</div>
+
+
 
 - **Cloud Computing**: ☁️ **AWS**, **Google Cloud**  
 - **Machine Learning**: 🤖 **TensorFlow**, **Scikit-learn**, **PyTorch**  
