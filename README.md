@@ -65,7 +65,7 @@ Feel free to explore my projects below 👇
 
 ## 🌱 Currently Learning 📚
 <div align="center">
-<img src="https://images.app.goo.gl/8VpMLdfjYNiUut1h9" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6845744-Zapier-and-Salesmate-integration&psig=AOvVaw1TfsJHGHIt8JHqw6peOVz2&ust=1733386784380000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND0nJPXjYoDFQAAAAAdAAAAABAD" />
 </div>  
 
 - **Cloud Computing**: ☁️ **AWS**, **Google Cloud**  
