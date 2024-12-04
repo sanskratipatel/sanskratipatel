@@ -1,6 +1,7 @@
 # 👨‍💻 Hello, I'm Sanskrati Patel 👋✨
 
-![Banner](![image](https://github.com/user-attachments/assets/4eb684e9-5035-44d5-be03-a92f8658b093)
+![Banner](![image](![image](https://github.com/user-attachments/assets/2c6a1c54-52b9-469e-b325-c48f37f5c9a1)
+
 
 
 ## About Me 👨‍💻
