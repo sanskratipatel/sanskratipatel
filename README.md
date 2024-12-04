@@ -64,9 +64,8 @@ Feel free to explore my projects below 👇
 ---
 
 ## 🌱 Currently Learning 📚
-<div align="center">
-<img src="https://images.app.goo.gl/8VpMLdfjYNiUut1h9" alt="Currently Learning Image" />
-</div>  
+ ![image](https://github.com/user-attachments/assets/dc6eea0d-055c-4e70-a104-1476151e0665)
+
 
 
 - **Cloud Computing**: ☁️ **AWS**, **Google Cloud**  
