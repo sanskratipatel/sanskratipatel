@@ -36,7 +36,8 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
 <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" />
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-<img src="https://img.icons8.com/doodle/48/000000/postman-api.png" alt="Postman" />
+<img src="https://mms.businesswire.com/media/20230322005274/en/761650/23/postman-logo-vert-2018.jpg" alt="Postman" />
+</div>
 </div>
 
 ---
