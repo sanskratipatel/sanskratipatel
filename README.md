@@ -3,11 +3,11 @@
 ![Banner](https://github.com/user-attachments/assets/2c6a1c54-52b9-469e-b325-c48f37f5c9a1)
 
 ## About Me 👨‍💻
-I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies** like **ReactJS**, I thrive on delivering innovative backend solutions using **Spring Boot** and **Django**. I am constantly learning and improving my skills to stay ahead of the tech curve.
+I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies**, I thrive on delivering innovative backend solutions using **Spring Boot** and **Django**. I enjoy solving technical challenges, optimizing performance, and building practical solutions that make a difference.
 
-Feel free to explore my projects below 👇
+---
 
-📬 **Reach me:**  
+## 📬 Contact Me  
 <div align="center">
 <a href="mailto:patelsanskrati05@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/sanskrati-patel/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
@@ -31,7 +31,7 @@ Feel free to explore my projects below 👇
 
 ---
 
-### **Databases & Tools 🗄️**
+### **Databases & Tools**
 <div align="center">
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
 <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" />
@@ -41,46 +41,85 @@ Feel free to explore my projects below 👇
 
 ---
 
-## 💼 Experience 🖥️
+## 💼 Experience
 
 ### **Backend Developer Intern**  
-**Katyayani Organics | Remote**  
+**Katyayani Organics | Remote | Bhopal, Madhya Pradesh**  
 *October 2024 – Present*  
-- **API Development**: Designed scalable **RESTful APIs** with **FastAPI** and **Pydantic** for integration with front-end services.  
-- **Database Modeling**: Worked on **data models** and **schemas** ensuring high performance and scalability.  
-- **Performance Optimization**: 🚀 Optimized response times with **caching** and **code refactoring**.  
-- **Testing**: Wrote unit and integration tests, contributing to **CI/CD** practices.
+- Developed and maintained backend services using **FastAPI** and **Pydantic**.  
+- Designed and implemented scalable **RESTful APIs** for efficient data flow and integration.  
+- Collaborated with a remote team to resolve technical challenges and enhance project performance.  
+
+### **Web Development Intern**  
+**VeriTech Software IT Service | Remote**  
+*May 2024 – June 2024*  
+- Created responsive, user-friendly web pages using **HTML** and **CSS**.  
+- Gained hands-on experience in front-end development, maintaining consistency and accessibility.
 
 ---
 
-## 📂 Featured Projects 🌟
+## 📂 Projects
 
-### 1. [Smart Contact Manager](https://github.com/SanskratiPatel/SmartContactManager)  
-   - **Tech Stack**: Java, Spring Boot, MySQL, Spring Security  
-   - Built a **contact management system** with authentication and an intuitive interface.  
-
-![Contact Manager Screenshot](https://via.placeholder.com/800x400?text=Smart+Contact+Manager)
-
----
-
-## 🌱 Currently Learning 📚
- ![image](https://github.com/user-attachments/assets/dc6eea0d-055c-4e70-a104-1476151e0665)
-
-
-
-- **Cloud Computing**: ☁️ **AWS**, **Google Cloud**  
-- **Machine Learning**: 🤖 **TensorFlow**, **Scikit-learn**, **PyTorch**  
-- **Mobile Development**: 📱 **Flutter**, **React Native**
+### 1. **Smart Contact Manager**  
+   - **Tech Stack**: Java, Spring Boot, MySQL, Spring Security, HTML, CSS  
+   - Built a **contact management system** featuring secure user authentication and role-based access control.  
+   - Developed features for adding, updating, and deleting contacts.  
+   - **[GitHub Repository](#)**  
 
 ---
 
-## 📝 Certifications 🏅
+### 2. **Employee Management System**  
+   - **Tech Stack**: Java, Spring Boot, MySQL, React, REST API, Tailwind CSS  
+   - Created a system to manage employee data with add, update, and delete functionalities.  
+   - Designed a user-friendly React front-end for efficient navigation.  
+   - **[GitHub Repository](#)**  
+
+---
+
+### 3. **DUKKAN – E-Commerce Platform**  
+   - **Tech Stack**: Python, Django, HTML5, CSS, JavaScript, MySQL  
+   - Designed and implemented user authentication, cart functionalities, and product filtering.  
+   - **[GitHub Repository](#)**  
+
+---
+
+### 4. **Weather Forecasting App**  
+   - Developed an intuitive app for real-time weather updates and forecasts.  
+
+---
+
+### Explore more of my projects on **[GitHub](https://github.com/SanskratiPatel)**  
+
+---
+
+## 🎓 Education
+
+- **B. Tech in Information Technology**  
+  **Indira Gandhi Engineering College, Sagar** (2020–2024)  
+  CGPA: 7.81  
+
+- **Higher Secondary (XII)**  
+  **Government Model Higher Secondary School, Patera** (2019–2020)  
+  Percentage: 90.00%  
+
+---
+
+## 🌱 Currently Learning  
+![Banner](https://github.com/user-attachments/assets/88669547-e350-4a45-8ad6-8d1c617b2c8b)
+
+- **Cloud Computing**: ☁️ AWS, Google Cloud  
+- **Machine Learning**: 🤖 TensorFlow, Scikit-learn, PyTorch  
+- **Mobile Development**: 📱 Flutter, React Native  
+
+---
+
+## 📝 Certifications
 
 - **[Python Basics Certification](https://www.coursera.org/account/accomplishments/verify/6SCRJWCE222Q)** – *Coursera*  
 - **[Multithreading in Java](https://olympus.mygreatlearning.com/courses/64164/certificate)** – *Great Learning*  
 - **[Java Programming](https://olympus.mygreatlearning.com/courses/12385/certificate)** – *Great Learning*  
-- **Java Programming & Software Engineering Fundamentals** – *Coursera*  
-- **Python for Data Science and AI** – *Coursera*  
+- **Web Development With Python Django** – *Coursera*  
+
 
 ---
 
@@ -89,5 +128,3 @@ Feel free to explore my projects below 👇
 <div align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Collaboration Animation" />
 </div>
-
-
