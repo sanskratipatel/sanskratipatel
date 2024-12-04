@@ -1,6 +1,6 @@
 # 👨‍💻 Hello, I'm Sanskrati Patel 👋✨
 
-![Banner](https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub+Profile!)
+![Banner](https://www.google.com/imgres?q=welcome%20banner%20for%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F10498744%2F210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fabhi01-01&docid=obwGDnOimT9MLM&tbnid=Gql8n76CdpGvJM&vet=12ahUKEwiWq_6hx42KAxUFyDgGHUaVB-kQM3oECC8QAA..i&w=1920&h=732&hcb=2&ved=2ahUKEwiWq_6hx42KAxUFyDgGHUaVB-kQM3oECC8QAA)
 
 ## About Me 👨‍💻
 I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies** like **ReactJS**, I thrive on delivering innovative backend solutions using **Spring Boot** and **Django**. I am constantly learning and improving my skills to stay ahead of the tech curve.
