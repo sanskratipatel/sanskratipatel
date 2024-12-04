@@ -1,94 +1,122 @@
-# 👨‍💻 Hello, I'm Sanskrati Patel 👋✨
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sanskrati Patel | Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #e3f2fd, #bbdefb);
+        }
+        header {
+            text-align: center;
+            padding: 2rem;
+            background: #2196f3;
+            color: white;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+        .section-title {
+            text-align: center;
+            margin: 2rem 0;
+            font-size: 1.8rem;
+            color: #1565c0;
+            text-transform: uppercase;
+        }
+        .icon-grid {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+        }
+        .icon-grid div {
+            text-align: center;
+            font-size: 1.2rem;
+            background: #f1f8e9;
+            border: 2px solid #c8e6c9;
+            border-radius: 8px;
+            padding: 1rem;
+            width: 120px;
+            transition: transform 0.3s ease;
+        }
+        .icon-grid div:hover {
+            transform: scale(1.1);
+        }
+        .icon-grid div i {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            color: #388e3c;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #1e88e5;
+            color: white;
+        }
+    </style>
+</head>
+<body>
 
-## About Me 👨‍💻
-I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies** like **ReactJS** , I thrive on delivering innovative backend solutions using **Spring Boot** and **Django**. I am constantly learning and improving my skills to stay ahead of the tech curve.
+<header>
+    <h1 class="animate__animated animate__fadeInDown">👨‍💻 Hello, I'm Sanskrati Patel 👋✨</h1>
+    <p class="animate__animated animate__fadeInUp">A passionate Software Developer from Indore, Madhya Pradesh</p>
+</header>
 
-Feel free to explore my projects below 👇
+<section>
+    <h2 class="section-title" data-aos="fade-up">Skills & Expertise</h2>
+    <div class="icon-grid" data-aos="zoom-in">
+        <div>
+            <i class="fab fa-java"></i>
+            <p>Java</p>
+        </div>
+        <div>
+            <i class="fab fa-python"></i>
+            <p>Python</p>
+        </div>
+        <div>
+            <i class="fab fa-react"></i>
+            <p>ReactJS</p>
+        </div>
+        <div>
+            <i class="fas fa-database"></i>
+            <p>MySQL</p>
+        </div>
+        <div>
+            <i class="fab fa-html5"></i>
+            <p>HTML5</p>
+        </div>
+        <div>
+            <i class="fab fa-css3-alt"></i>
+            <p>CSS3</p>
+        </div>
+    </div>
+</section>
 
-📬 **Reach me:**  
-📧 [patelsanskrati05@gmail.com](mailto:patelsanskrati05@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sanskrati-patel/) | 💻 [GitHub](https://github.com/SanskratiPatel)  
+<section>
+    <h2 class="section-title" data-aos="fade-up">Contact Me</h2>
+    <p class="animate__animated animate__fadeInUp" style="text-align: center;">
+        📧 <a href="mailto:patelsanskrati05@gmail.com">patelsanskrati05@gmail.com</a><br>
+        🔗 <a href="https://linkedin.com/in/sanskrati-patel">LinkedIn</a> | 💻 <a href="https://github.com/SanskratiPatel">GitHub</a>
+    </p>
+</section>
 
----
+<footer>
+    <p>🌟 Let's build something amazing together! 🚀✨</p>
+</footer>
 
-## 🛠️ Skills & Expertise 💡
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 
-### **Languages & Frameworks**
-- **Java**: 💪 **Core Java**, **Spring Boot**, and **Java EE** for building enterprise-grade solutions.  
-- **Python**: 🐍 **FastAPI**, **Django**, and **data processing** for rapid backend development and API services.  
-- **C/C++**: 🔧 Deep knowledge in low-level programming, algorithms, and data structures.
+</body>
+</html>
 
-### **Web Development 🌐**
-- **Frontend**: 💻 **HTML5**, **CSS**, **JavaScript** for creating interactive UIs and responsive web pages.  
-- **ReactJS**: 🚀 Building modern, dynamic single-page applications (SPAs).  
-- **Backend**: 🔒 Creating secure and efficient **APIs** with **FastAPI**, **Spring Boot**, and **Django**.
-
-### **Databases & Tools 🗄️**
-- **Databases**: 🛠️ **MySQL** for relational data and **SQLite** for embedded databases.
-- **DevOps & Version Control**: 🔄 **Git** for version control and **Postman** for API testing.
-- **Development Tools**: 💡 Familiar with **IntelliJ IDEA**, **PyCharm**, **Eclipse**, and **Maven**.
-
----
-
-## 💼 Experience 🖥️
-
-### **Backend Developer Intern**  
-**Katyayani Organics | Remote**  
-*October 2024 – Present*  
-- **API Development**: Designed scalable **RESTful APIs** with **FastAPI** and **Pydantic** for integration with front-end services.  
-- **Database Modeling**: Worked on **data models** and **schemas** ensuring high performance and scalability.  
-- **Performance Optimization**: 🚀 Optimized response times with **caching** and **code refactoring**.  
-- **Testing**: Wrote unit and integration tests, contributing to **CI/CD** practices.
-
-### **Web Development Intern**  
-**VeriTech Software IT Service | Remote**  
-*May 2024 – June 2024*  
-- **Responsive Design**: Created interactive and **responsive web pages** using **HTML5**, **CSS**, and **JavaScript**.  
-- **UI/UX**: Enhanced the aesthetics and **user experience** of websites by following **best practices** in **design**.  
-- **Website Optimization**: Improved website speed through **lazy loading** and **minification** of resources.
-
----
-
-## 📂 Featured Projects 🌟
-
-### 1. **[Smart Contact Manager](https://github.com/SanskratiPatel/SmartContactManager)**  
-   - **Tech Stack**: Java, Spring Boot, MySQL, Spring Security  
-   - Built a **contact management system** with authentication and an intuitive interface.  
-
-### 2. **[Employee Management System](https://github.com/SanskratiPatel/EmployeeManagementSystem)**  
-   - **Tech Stack**: Java Spring Boot, React, MySQL, REST APIs  
-   - A **full-stack application** for managing employee records with **CRUD** functionality.
-
-### 3. **[DUKKAN – E-Commerce Website](https://github.com/SanskratiPatel/DUKKAN-E-Commerce)**  
-   - **Tech Stack**: Python Django, HTML5, CSS, MySQL  
-   - Developed an **e-commerce platform** featuring **user authentication** and product management.
-
-### 4. **[Weather Forecasting App](https://github.com/SanskratiPatel/WeatherForecasting)**  
-   - **Tech Stack**: Python, OpenWeather API  
-   - Built a **weather forecasting** app providing live weather updates for multiple cities.
-
-🔎 Explore more projects on my [GitHub](https://github.com/SanskratiPatel).
-
----
-
-## 🌱 Currently Learning 📚
-- **Cloud Computing**: ☁️ **AWS**, **Google Cloud**  
-- **Machine Learning**: 🤖 **TensorFlow**, **Scikit-learn**, **PyTorch**  
-- **Mobile Development**: 📱 **Flutter**, **React Native**
-
----
-
-## 📝 Certifications 🏅
-- **Java Programming & Software Engineering Fundamentals** – **Coursera**  
-- **Python for Data Science and AI** – **Coursera**
-
----
-
-## 📫 How to Reach Me 🌍
-- **Email**: [patelsanskrati05@gmail.com](mailto:patelsanskrati05@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/sanskrati-patel](https://www.linkedin.com/in/sanskrati-patel-b2464b223/)  
-- **GitHub**: [github.com/SanskratiPatel](https://github.com/sanskratiPatel)  
-
----
-
-### 🌟 Let's build something amazing together! 🚀✨
