@@ -1,122 +1,88 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sanskrati Patel | Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            background: linear-gradient(to right, #e3f2fd, #bbdefb);
-        }
-        header {
-            text-align: center;
-            padding: 2rem;
-            background: #2196f3;
-            color: white;
-        }
-        header h1 {
-            font-size: 2.5rem;
-            margin: 0;
-        }
-        .section-title {
-            text-align: center;
-            margin: 2rem 0;
-            font-size: 1.8rem;
-            color: #1565c0;
-            text-transform: uppercase;
-        }
-        .icon-grid {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 1.5rem;
-        }
-        .icon-grid div {
-            text-align: center;
-            font-size: 1.2rem;
-            background: #f1f8e9;
-            border: 2px solid #c8e6c9;
-            border-radius: 8px;
-            padding: 1rem;
-            width: 120px;
-            transition: transform 0.3s ease;
-        }
-        .icon-grid div:hover {
-            transform: scale(1.1);
-        }
-        .icon-grid div i {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-            color: #388e3c;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem;
-            background: #1e88e5;
-            color: white;
-        }
-    </style>
-</head>
-<body>
+# 👨‍💻 Hello, I'm Sanskrati Patel 👋✨
 
-<header>
-    <h1 class="animate__animated animate__fadeInDown">👨‍💻 Hello, I'm Sanskrati Patel 👋✨</h1>
-    <p class="animate__animated animate__fadeInUp">A passionate Software Developer from Indore, Madhya Pradesh</p>
-</header>
+![Banner](https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub+Profile!)
 
-<section>
-    <h2 class="section-title" data-aos="fade-up">Skills & Expertise</h2>
-    <div class="icon-grid" data-aos="zoom-in">
-        <div>
-            <i class="fab fa-java"></i>
-            <p>Java</p>
-        </div>
-        <div>
-            <i class="fab fa-python"></i>
-            <p>Python</p>
-        </div>
-        <div>
-            <i class="fab fa-react"></i>
-            <p>ReactJS</p>
-        </div>
-        <div>
-            <i class="fas fa-database"></i>
-            <p>MySQL</p>
-        </div>
-        <div>
-            <i class="fab fa-html5"></i>
-            <p>HTML5</p>
-        </div>
-        <div>
-            <i class="fab fa-css3-alt"></i>
-            <p>CSS3</p>
-        </div>
-    </div>
-</section>
+## About Me 👨‍💻
+I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies** like **ReactJS**, I thrive on delivering innovative backend solutions using **Spring Boot** and **Django**. I am constantly learning and improving my skills to stay ahead of the tech curve.
 
-<section>
-    <h2 class="section-title" data-aos="fade-up">Contact Me</h2>
-    <p class="animate__animated animate__fadeInUp" style="text-align: center;">
-        📧 <a href="mailto:patelsanskrati05@gmail.com">patelsanskrati05@gmail.com</a><br>
-        🔗 <a href="https://linkedin.com/in/sanskrati-patel">LinkedIn</a> | 💻 <a href="https://github.com/SanskratiPatel">GitHub</a>
-    </p>
-</section>
+Feel free to explore my projects below 👇
 
-<footer>
-    <p>🌟 Let's build something amazing together! 🚀✨</p>
-</footer>
+📬 **Reach me:**  
+📧 [patelsanskrati05@gmail.com](mailto:patelsanskrati05@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sanskrati-patel/) | 💻 [GitHub](https://github.com/SanskratiPatel)  
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
-<script>
-    AOS.init();
-</script>
+---
 
-</body>
-</html>
+## 🛠️ Skills & Expertise 💡
 
+### **Languages & Frameworks**
+| Language/Framework     | Icon                                                                                  |
+|-------------------------|---------------------------------------------------------------------------------------|
+| **Java**               | ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)         |
+| **Python**             | ![Python Icon](https://img.icons8.com/color/48/000000/python.png)                    |
+| **C/C++**              | ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)             |
+| **Spring Boot**        | ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png)          |
+| **Django**             | ![Django Icon](https://img.icons8.com/material-outlined/48/000000/django.png)        |
+| **ReactJS**            | ![React Icon](https://img.icons8.com/ultraviolet/48/000000/react.png)                |
+
+---
+
+### **Databases & Tools 🗄️**
+| Tool/Database          | Icon                                                                                  |
+|-------------------------|---------------------------------------------------------------------------------------|
+| **MySQL**              | ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)                 |
+| **SQLite**             | ![SQLite Icon](https://img.icons8.com/color/48/000000/sql.png)                       |
+| **Git**                | ![Git Icon](https://img.icons8.com/color/48/000000/git.png)                          |
+| **Postman**            | ![Postman Icon](https://img.icons8.com/doodle/48/000000/postman-api.png)             |
+
+---
+
+## 💼 Experience 🖥️
+
+### **Backend Developer Intern**  
+**Katyayani Organics | Remote**  
+*October 2024 – Present*  
+- **API Development**: Designed scalable **RESTful APIs** with **FastAPI** and **Pydantic** for integration with front-end services.  
+- **Database Modeling**: Worked on **data models** and **schemas** ensuring high performance and scalability.  
+- **Performance Optimization**: 🚀 Optimized response times with **caching** and **code refactoring**.  
+- **Testing**: Wrote unit and integration tests, contributing to **CI/CD** practices.
+
+---
+
+## 📂 Featured Projects 🌟
+
+### 1. [Smart Contact Manager](https://github.com/SanskratiPatel/SmartContactManager)  
+   - **Tech Stack**: Java, Spring Boot, MySQL, Spring Security  
+   - Built a **contact management system** with authentication and an intuitive interface.  
+
+![Contact Manager Screenshot](https://via.placeholder.com/800x400?text=Smart+Contact+Manager)
+
+---
+
+## 🌱 Currently Learning 📚
+![Learning Animation](https://media.giphy.com/media/3o7aCPaK2hdGWO7m76/giphy.gif)  
+
+- **Cloud Computing**: ☁️ **AWS**, **Google Cloud**  
+- **Machine Learning**: 🤖 **TensorFlow**, **Scikit-learn**, **PyTorch**  
+- **Mobile Development**: 📱 **Flutter**, **React Native**
+
+---
+
+## 📝 Certifications 🏅
+- **Java Programming & Software Engineering Fundamentals** – **Coursera**  
+- **Python for Data Science and AI** – **Coursera**
+
+---
+
+## 📫 How to Reach Me 🌍
+| Platform  | Link                                                                                       |
+|-----------|--------------------------------------------------------------------------------------------|
+| **Email** | [patelsanskrati05@gmail.com](mailto:patelsanskrati05@gmail.com)                            |
+| **LinkedIn** | [linkedin.com/in/sanskrati-patel](https://www.linkedin.com/in/sanskrati-patel-b2464b223/) |
+| **GitHub** | [github.com/SanskratiPatel](https://github.com/SanskratiPatel)                             |
+
+---
+
+### 🌟 Let's build something amazing together! 🚀✨
+
+![Collaboration Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
