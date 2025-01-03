@@ -110,8 +110,8 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 ![image](https://github.com/user-attachments/assets/6e96aaae-9446-4189-86df-ea06c0c74d1d)
 
 
-- **Cloud Computing**: ☁️ AWS, Google Cloud  
-- **Machine Learning**: 🤖 TensorFlow, Scikit-learn, PyTorch  
+- **Cloud Computing**: ☁️ AWS, Google Cloud,  
+- **Machine Learning**: 🤖 TensorFlow, Scikit-learn
 - **Mobile Development**: 📱 Flutter, React Native  
 
 ---
