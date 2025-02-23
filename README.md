@@ -46,7 +46,7 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 ## 💼 Experience
 
 ### **Backend Developer Intern**  
-**Katyayani Organics | Remote | Bhopal, Madhya Pradesh**  
+**Katyayani Organics | Bhopal, Madhya Pradesh**  
 *October 2024 – Present*  
 - Developed and maintained backend services using **FastAPI** and **Pydantic**.  
 - Designed and implemented scalable **RESTful APIs** for efficient data flow and integration.  
