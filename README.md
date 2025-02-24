@@ -121,7 +121,7 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 - **[Python Basics Certification](https://www.coursera.org/account/accomplishments/verify/6SCRJWCE222Q)** – *Coursera*  
 - **[Multithreading in Java](https://olympus.mygreatlearning.com/courses/64164/certificate)** – *Great Learning*  
 - **[Java Programming](https://olympus.mygreatlearning.com/courses/12385/certificate)** – *Great Learning*  
-- **Web Development With Python Django** – *Coursera*  
+- **Web Development With Python Django** – *CRISP BHOPAL*  
 
 
 ---
