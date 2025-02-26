@@ -90,7 +90,7 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 
 ---
 
-### Explore more of my projects on **[GitHub](https://github.com/SanskratiPatel)**  
+### Explore more of my projects on **[GitHub](https://github.com/sanskratipatel)**  
 
 ---
 
