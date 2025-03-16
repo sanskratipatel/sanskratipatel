@@ -52,41 +52,6 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 - Designed and implemented scalable **RESTful APIs** for efficient data flow and integration.  
 - Collaborated with a remote team to resolve technical challenges and enhance project performance.  
 
-### **Web Development Intern**  
-**VeriTech Software IT Service | Remote**  
-*May 2024 – June 2024*  
-- Created responsive, user-friendly web pages using **HTML** and **CSS**.  
-- Gained hands-on experience in front-end development, maintaining consistency and accessibility.
-
----
-
-## 📂 Projects
-
-### 1. **Smart Contact Manager**  
-   - **Tech Stack**: Java, Spring Boot, MySQL, Spring Security, HTML, CSS  
-   - Built a **contact management system** featuring secure user authentication and role-based access control.  
-   - Developed features for adding, updating, and deleting contacts.  
-   - **[GitHub Repository](#)**  
-
----
-
-### 2. **Employee Management System**  
-   - **Tech Stack**: Java, Spring Boot, MySQL, React, REST API, Tailwind CSS  
-   - Created a system to manage employee data with add, update, and delete functionalities.  
-   - Designed a user-friendly React front-end for efficient navigation.  
-   - **[GitHub Repository](#)**  
-
----
-
-### 3. **DUKKAN – E-Commerce Platform**  
-   - **Tech Stack**: Python, Django, HTML5, CSS, JavaScript, MySQL  
-   - Designed and implemented user authentication, cart functionalities, and product filtering.  
-   - **[GitHub Repository](#)**  
-
----
-
-### 4. **Weather Forecasting App**  
-   - Developed an intuitive app for real-time weather updates and forecasts.  
 
 ---
 
@@ -99,29 +64,6 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 - **B. Tech in Information Technology**  
   **Indira Gandhi Engineering College, Sagar** (2020–2024)  
   CGPA: 7.81  
-
-- **Higher Secondary (XII)**  
-  **Government Model Higher Secondary School, Patera** (2019–2020)  
-  Percentage: 90.00%  
-
----
-
-## 🌱 Currently Learning  
-![image](https://github.com/user-attachments/assets/6e96aaae-9446-4189-86df-ea06c0c74d1d)
-
-
-- **Cloud Computing**: ☁️ AWS, Google Cloud,  
-- **Machine Learning**: 🤖 TensorFlow, Scikit-learn
-
-
----
-
-## 📝 Certifications
-
-- **[Python Basics Certification](https://www.coursera.org/account/accomplishments/verify/6SCRJWCE222Q)** – *Coursera*  
-- **[Multithreading in Java](https://olympus.mygreatlearning.com/courses/64164/certificate)** – *Great Learning*  
-- **[Java Programming](https://olympus.mygreatlearning.com/courses/12385/certificate)** – *Great Learning*  
-- **Web Development With Python Django** – *CRISP BHOPAL*  
 
 
 ---
