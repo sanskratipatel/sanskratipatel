@@ -52,7 +52,6 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 - Designed and implemented scalable **RESTful APIs** for efficient data flow and integration.  
 - Collaborated with a remote team to resolve technical challenges and enhance project performance.  
 
-
 ---
 
 ### Explore more of my projects on **[GitHub](https://github.com/sanskratipatel)**  
@@ -64,7 +63,6 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 - **B. Tech in Information Technology**  
   **Indira Gandhi Engineering College, Sagar** (2020–2024)  
   CGPA: 7.81  
-
 
 ---
 
