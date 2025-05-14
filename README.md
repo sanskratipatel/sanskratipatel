@@ -30,7 +30,6 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 <img src="https://img.icons8.com/material-outlined/48/000000/django.png" alt="Django" />
 <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="ReactJS" />
 </div>
----
 
 ### **Databases & Tools**
 <div align="center">
