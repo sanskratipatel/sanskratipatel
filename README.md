@@ -1,9 +1,5 @@
 <!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-contributions.vercel.app/api?username=SanskratiPatel&color=green" alt="Contribution Graph" />
-</div>
 
----
 
 <!-- GitHub Stats & Streak -->
 <div align="center">
