@@ -1,3 +1,10 @@
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-contributions.vercel.app/api?username=SanskratiPatel&color=green" alt="Contribution Graph" />
+</div>
+
+---
+
 <!-- GitHub Stats & Streak -->
 <div align="center">
 
@@ -74,7 +81,7 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 ## 🎓 Education
 
 - **B. Tech in Information Technology**  
-  **Indira Gandhi Engineering College, Sagar ,M.P.** (2020–2024)  
+  **Indira Gandhi Engineering College, Sagar, M.P.** (2020–2024)  
   CGPA: 7.81  
 
 ---
