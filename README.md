@@ -1,6 +1,3 @@
-<!-- Contribution Graph -->
-
-
 <!-- GitHub Stats & Streak -->
 <div align="center">
 
