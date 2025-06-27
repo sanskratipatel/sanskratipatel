@@ -1,13 +1,29 @@
-# 👨‍💻 Hello, I'm Sanskrati Patel 👋
+<!-- GitHub Stats & Streak -->
+<div align="center">
 
-![Banner](https://github.com/user-attachments/assets/2c6a1c54-52b9-469e-b325-c48f37f5c9a1)
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskratiPatel&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
-## About Me 👨‍💻
-I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies**, I thrive on delivering innovative backend solutions using **NodeJS** ,**Bun**, **FastAPI** and **Django**. I enjoy solving technical challenges, optimizing performance, and building practical solutions that make a difference.
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=SanskratiPatel&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskratiPatel&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
-## 📬 Contact Me  
+👨‍💻 Hello, I'm Sanskrati Patel 👋
+
+![Banner](https://github.com/user-attachments/assets/2c6a1c54-52b9-469e-b325-c48f37f5c9a1)
+
+## About Me 👨‍💻  
+I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies**, I thrive on delivering innovative backend solutions using **NodeJS**, **Bun**, **FastAPI**, and **Django**. I enjoy solving technical challenges, optimizing performance, and building practical solutions that make a difference.
+
+---
+
+## 📬 Contact Me
 
 <div align="center">
     <a href="mailto:patelsanskrati05@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" /></a>
@@ -36,7 +52,6 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
 <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" />
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-</div>
 </div>
 
 ---
