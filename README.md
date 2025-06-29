@@ -82,7 +82,7 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 
 ---
 
-### 🌟 Let's build something amazing together! 🚀✨
+### 🌟 Let's build something amazing together! ✨
 
 <div align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Collaboration Animation" />
