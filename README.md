@@ -5,10 +5,6 @@
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=SanskratiPatel&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskratiPatel&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
