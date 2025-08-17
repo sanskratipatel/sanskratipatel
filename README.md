@@ -25,7 +25,7 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
     <a href="mailto:patelsanskrati05@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" /></a>
     <a href="https://www.linkedin.com/in/sanskrati-patel-b2464b223/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
     <a href="https://github.com/SanskratiPatel"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" /></a>
-    <a href="https://drive.google.com/file/d/1DtjYhihr4FFcvulhBjcrgp9zvZvYrXq6/view?usp=sharing"><img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" /></a>
+    <a href="https://drive.google.com/file/d/1YKWD2F_BwUJJfNiZwrz6F26e8yhkWSir/view?usp=sharing"><img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" /></a>
     <a href="https://sanskrati-patel-portfolio.netlify.app/"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" /></a>
 </div>
 
