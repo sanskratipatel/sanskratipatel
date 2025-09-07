@@ -57,9 +57,17 @@ I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, special
 ### **Backend Developer Intern**  
 **Katyayani Organics | Bhopal, Madhya Pradesh**  
 *October 2024 – Present*  
-- Developed and maintained backend services using **FastAPI** and **Pydantic**.  
-- Designed and implemented scalable **RESTful APIs** for efficient data flow and integration.  
-- Collaborated with a remote team to resolve technical challenges and enhance project performance.  
+ Built and maintained scalable backend services using FastAPI and Pydantic, ensuring high performance and reliability.
+ Worked with MongoDB and PostgreSQL for efficient data storage, queries, and optimization.
+ Implemented real-time features with Socket.IO, enabling live driver updates and instant system communication.
+ Integrated Firebase Cloud Messaging (FCM) to deliver push notifications, improving user engagement and system interactivity.
+ Integrated Zoho API for business workflows and Shopify API for product and inventory management.
+ Collaborated closely with the frontend team to test APIs, debug flows, and ensure smooth integration.
+ Contributed to live deployment and production monitoring, continuously improving system reliability, API response time, and 
+database performance.
+ Assisted the Business Analyst (BA) team in cleaning and correcting wrong data in MongoDB, optimizing queries, and adding 
+indexes to improve database performance.
+ Actively worked on bug fixing, performance tuning, and scaling APIs, making the application faster and more stable.
 
 ---
 
