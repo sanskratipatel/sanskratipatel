@@ -15,7 +15,7 @@
 ![Banner](https://github.com/user-attachments/assets/2c6a1c54-52b9-469e-b325-c48f37f5c9a1)
 
 ## About Me 👨‍💻  
-I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python**, and modern **web technologies**, I thrive on delivering innovative backend solutions using **NodeJS**, **Bun**, **FastAPI**, and **Django**. I enjoy solving technical challenges, optimizing performance, and building practical solutions that make a difference.
+I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python** and modern **web technologies**, I thrive on delivering innovative backend solutions using **NodeJS**, **Bun**, **FastAPI**, and **Django**. I enjoy solving technical challenges, optimizing performance, and building practical solutions that make a difference.
 
 ---
 
