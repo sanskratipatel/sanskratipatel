@@ -7,7 +7,6 @@
 <!-- GitHub Stats Card -->
 
 </div>
-
 ---
 
 👨‍💻 Hello, I'm Sanskrati Patel 👋
