@@ -1,89 +1,145 @@
-<!-- Contribution Graph -->
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Sanskrati Patel</h1>
+<h3 align="center">Backend Engineer | Python | FastAPI | Django | AI Systems | Scalable APIs</h3>
 
-<!-- GitHub Stats & Streak -->
-<div align="center">
-
-<!-- GitHub Stats Card -->
-
-</div>
----
-
-👨‍💻 Hello, I'm Sanskrati Patel 👋
-
-![Banner](https://github.com/user-attachments/assets/2c6a1c54-52b9-469e-b325-c48f37f5c9a1)
-
-## About Me 👨‍💻  
-I'm a passionate **Software Developer** from **Indore, Madhya Pradesh**, specializing in building **scalable, high-performance applications**. With expertise in **Java**, **Python** and modern **web technologies**, I thrive on delivering innovative backend solutions using **NodeJS**, **Bun**, **FastAPI**, and **Django**. I enjoy solving technical challenges, optimizing performance, and building practical solutions that make a difference.
+<p align="center">
+🚀 Building high-performance backend systems & AI-powered applications  
+📍 Bhopal → Open to Relocate  
+⚡ Focus: Scalability, Performance, Real-world Impact  
+</p>
 
 ---
 
-## 📬 Contact Me
+## 🚀 About Me
 
-<div align="center">
-    <a href="mailto:patelsanskrati05@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" /></a>
-    <a href="https://www.linkedin.com/in/sanskrati-patel-b2464b223/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-    <a href="https://github.com/SanskratiPatel"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" /></a>
-    <a href="https://drive.google.com/file/d/1D95vuNjNwxWH3cJKkQXvb87rI3rIrNXk/view?usp=sharing"><img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" /></a>
-    <a href="https://sanskrati-patel-portfolio.netlify.app/"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" /></a>
-</div>
+💻 Backend Engineer with **1.5+ years of experience** building **production-grade systems**  
+⚡ Improved API latency by **75% (2s → 500ms)**  
+📦 Built systems handling **1,000+ daily operations**  
+🤖 Hands-on with **AI systems (RAG, LLM APIs, real-time workflows)**  
+📈 Promoted from **Intern → Full-Time** based on performance & ownership  
+
+I love solving real-world problems, optimizing systems, and building scalable backend architectures.
 
 ---
 
-## 🛠️ Skills & Expertise 💡
+## 📊 GitHub Stats & Activity
 
-### **Languages & Frameworks**
-<div align="center">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
-<img src="https://img.icons8.com/material-outlined/48/000000/django.png" alt="Django" />
-<img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="ReactJS" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskratipatel&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskratipatel&theme=radical" />
+</p>
 
-### **Databases & Tools**
-<div align="center">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" />
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskratipatel&theme=react-dark" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Backend & Core
+<p>
+Python • FastAPI • Django • Django REST Framework • REST APIs • Async Programming  
+System Design • API Optimization • Backend Architecture
+</p>
+
+### 🗄️ Databases
+<p>
+PostgreSQL • MongoDB • MySQL • Redis
+</p>
+
+### ⚡ Real-Time & Integrations
+<p>
+Socket.IO • Firebase Cloud Messaging • Third-party APIs (Zoho, Shiprocket, Logistics APIs)
+</p>
+
+### 🤖 AI / GenAI
+<p>
+LLM APIs • RAG (Retrieval-Augmented Generation) • Prompt Engineering • Vector DB Concepts
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+Git • GitHub • Postman • Swagger • Render • Pydantic
+</p>
 
 ---
 
 ## 💼 Experience
 
-### **Backend Developer Intern**  
-**Katyayani Organics | Bhopal, Madhya Pradesh**  
-*October 2024 – Present*  
-- Built and maintained scalable backend services using FastAPI and Pydantic, ensuring high performance and reliability.
-- Worked with MongoDB and PostgreSQL for efficient data storage, queries, and optimization.
-- Implemented real-time features with Socket.IO, enabling live driver updates and instant system communication.
-- Integrated Firebase Cloud Messaging (FCM) to deliver push notifications, improving user engagement and system interactivity.
-- Integrated Zoho API for business workflows and Shopify API for product and inventory management.
-- Collaborated closely with the frontend team to test APIs, debug flows, and ensure smooth integration.
-- Contributed to live deployment and production monitoring, continuously improving system reliability, API response time, and 
-database performance.
-- Assisted the Business Analyst (BA) team in cleaning and correcting wrong data in MongoDB, optimizing queries, and adding 
-indexes to improve database performance.
-- Actively worked on bug fixing, performance tuning, and scaling APIs, making the application faster and more stable.
+### 🏢 Backend Developer — Katyayani Organics  
+📍 Bhopal | 🗓️ Apr 2025 – Present  
+
+- Owned backend for **warehouse system handling 1,000+ daily orders**
+- Reduced API latency by **75% (2s → 500ms)**
+- Built scalable APIs using **FastAPI & Django**
+- Implemented **real-time workflows using Socket.IO**
+- Integrated **Zoho, Shiprocket, and logistics APIs**
+- Automated workflows → improved operational efficiency
 
 ---
 
+### 🏢 Backend Developer Intern — Katyayani Organics  
+📍 Bhopal | 🗓️ Oct 2024 – Mar 2025  
 
-### Explore more of my projects on **[GitHub](https://github.com/sanskratipatel)**  
+- Developed backend APIs using **FastAPI + PostgreSQL**
+- Improved performance via **query optimization & debugging**
+- Worked on **inventory + order lifecycle systems**
+- Promoted to full-time based on impact 🚀
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 TrackPack – Warehouse System
+- Built system reducing processing time **7 days → 1 day**
+- Handles **1,000+ orders/day**
+- RBAC + scalable backend architecture
+- Tech: FastAPI, PostgreSQL, MongoDB, Socket.IO
+
+---
+
+### 🤖 AI WhatsApp Chatbot (RAG System)
+- Built **RAG-based chatbot using LLM APIs**
+- Reduced hallucination via retrieval pipelines
+- AI + human escalation system
+- Voice-based query support
+- Tech: FastAPI, Supabase, LLM APIs
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+<a href="mailto:patelsanskrati12@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/sanskrati-patel-b2464b223/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+<a href="https://github.com/sanskratipatel"><img src="https://img.icons8.com/ios-filled/50/github.png"/></a>
+<a href="https://sanskrati-portfolio.onrender.com/"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
+</p>
 
 ---
 
 ## 🎓 Education
 
-- **B. Tech in Information Technology**  
-  **Indira Gandhi Engineering College, Sagar, M.P.** (2020–2024)  
-  CGPA: 7.81  
+🎓 B.Tech in Computer Science  
+Rajiv Gandhi Proudyogiki Vishwavidyalaya (2020–2024)
 
 ---
 
-### 🌟 Let's build something amazing together! ✨
+## 🌱 Currently Learning
 
-<div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Collaboration Animation" />
-</div>
+- Advanced **System Design**
+- **Agentic AI / Multi-Agent Systems**
+- Scaling **LLM applications in production**
+
+---
+
+## ⚡ Fun Fact
+
+I turn complex backend problems into scalable, real-world solutions 🚀
+
+---
+
+<p align="center">
+🔥 Open to Backend / AI Engineer roles | Let’s build something impactful together!
+</p>
