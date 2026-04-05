@@ -1,46 +1,67 @@
-<!-- HEADER -->
+<!-- ======================= HEADER ======================= -->
+
 <h1 align="center">Hi 👋, I'm Sanskrati Patel</h1>
-<h3 align="center">Backend Engineer | Python | FastAPI | Django | AI Systems | Scalable APIs</h3>
 
 <p align="center">
-🚀 Building high-performance backend systems & AI-powered applications  
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Python+%7C+FastAPI+%7C+Django;Building+Scalable+Systems+%F0%9F%9A%80;AI+%2F+RAG+%2F+LLM+Engineer;Optimizing+APIs+%28-75%25+Latency%29;Turning+Ideas+into+Production+Systems" />
+</p>
+
+<p align="center">
+🚀 Backend Engineer | AI Systems | Scalable APIs  
 📍 Bhopal → Open to Relocate  
-⚡ Focus: Scalability, Performance, Real-world Impact  
+💡 Focus: Performance • Scalability • Real-world Impact  
 </p>
 
 ---
+
+<!-- ======================= BADGES ======================= -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/FastAPI-Advanced-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-Production%20Ready-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLM-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ======================= ABOUT ======================= -->
 
 ## 🚀 About Me
 
-💻 Backend Engineer with **1.5+ years of experience** building **production-grade systems**  
-⚡ Improved API latency by **75% (2s → 500ms)**  
+💻 Backend Engineer with **1.5+ years of experience**  
+⚡ Reduced API latency by **75% (2s → 500ms)**  
 📦 Built systems handling **1,000+ daily operations**  
-🤖 Hands-on with **AI systems (RAG, LLM APIs, real-time workflows)**  
-📈 Promoted from **Intern → Full-Time** based on performance & ownership  
+🤖 Hands-on with **AI systems (RAG, LLM APIs)**  
+🚀 Promoted from **Intern → Full-Time**  
 
-I love solving real-world problems, optimizing systems, and building scalable backend architectures.
+I specialize in building **high-performance backend systems** and **AI-powered applications** that solve real-world problems.
 
 ---
 
-## 📊 GitHub Stats & Activity
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Stats & Daily Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskratipatel&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskratipatel&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskratipatel&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskratipatel&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskratipatel&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskratipatel&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
+
+<!-- ======================= TECH STACK ======================= -->
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Backend & Core
+### 👨‍💻 Backend
 <p>
-Python • FastAPI • Django • Django REST Framework • REST APIs • Async Programming  
-System Design • API Optimization • Backend Architecture
+Python • FastAPI • Django • DRF • REST APIs • Async Programming • System Design
 </p>
 
 ### 🗄️ Databases
@@ -48,65 +69,78 @@ System Design • API Optimization • Backend Architecture
 PostgreSQL • MongoDB • MySQL • Redis
 </p>
 
-### ⚡ Real-Time & Integrations
+### ⚡ Real-Time Systems
 <p>
-Socket.IO • Firebase Cloud Messaging • Third-party APIs (Zoho, Shiprocket, Logistics APIs)
+Socket.IO • Firebase Cloud Messaging
 </p>
 
 ### 🤖 AI / GenAI
 <p>
-LLM APIs • RAG (Retrieval-Augmented Generation) • Prompt Engineering • Vector DB Concepts
+LLM APIs • RAG • Prompt Engineering • Vector DB Concepts
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 <p>
 Git • GitHub • Postman • Swagger • Render • Pydantic
 </p>
 
 ---
 
+<!-- ======================= EXPERIENCE ======================= -->
+
 ## 💼 Experience
 
 ### 🏢 Backend Developer — Katyayani Organics  
 📍 Bhopal | 🗓️ Apr 2025 – Present  
 
-- Owned backend for **warehouse system handling 1,000+ daily orders**
-- Reduced API latency by **75% (2s → 500ms)**
-- Built scalable APIs using **FastAPI & Django**
-- Implemented **real-time workflows using Socket.IO**
-- Integrated **Zoho, Shiprocket, and logistics APIs**
-- Automated workflows → improved operational efficiency
+- Built backend system handling **1,000+ daily orders**
+- Improved API performance by **75%**
+- Designed scalable APIs using **FastAPI & Django**
+- Developed **real-time systems using Socket.IO**
+- Integrated **Zoho, Shiprocket APIs**
 
 ---
 
 ### 🏢 Backend Developer Intern — Katyayani Organics  
 📍 Bhopal | 🗓️ Oct 2024 – Mar 2025  
 
-- Developed backend APIs using **FastAPI + PostgreSQL**
-- Improved performance via **query optimization & debugging**
-- Worked on **inventory + order lifecycle systems**
-- Promoted to full-time based on impact 🚀
+- Built APIs with **FastAPI + PostgreSQL**
+- Optimized queries & improved system performance
+- Promoted to full-time 🚀
 
 ---
+
+<!-- ======================= PROJECTS ======================= -->
 
 ## 🚀 Featured Projects
 
 ### 📦 TrackPack – Warehouse System
-- Built system reducing processing time **7 days → 1 day**
+- Reduced processing time **7 days → 1 day**
 - Handles **1,000+ orders/day**
-- RBAC + scalable backend architecture
-- Tech: FastAPI, PostgreSQL, MongoDB, Socket.IO
+- RBAC + scalable backend  
+**Tech:** FastAPI, PostgreSQL, MongoDB, Socket.IO  
 
 ---
 
-### 🤖 AI WhatsApp Chatbot (RAG System)
-- Built **RAG-based chatbot using LLM APIs**
-- Reduced hallucination via retrieval pipelines
-- AI + human escalation system
-- Voice-based query support
-- Tech: FastAPI, Supabase, LLM APIs
+### 🤖 AI WhatsApp Chatbot (RAG)
+- Built **LLM-powered chatbot**
+- Reduced hallucinations via **RAG pipeline**
+- Voice-based query support  
+**Tech:** FastAPI, LLM APIs, Supabase  
 
 ---
+
+<!-- ======================= TROPHIES ======================= -->
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanskratipatel&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
 
 ## 📬 Connect With Me
 
@@ -119,27 +153,9 @@ Git • GitHub • Postman • Swagger • Render • Pydantic
 
 ---
 
-## 🎓 Education
-
-🎓 B.Tech in Computer Science  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya (2020–2024)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced **System Design**
-- **Agentic AI / Multi-Agent Systems**
-- Scaling **LLM applications in production**
-
----
-
-## ⚡ Fun Fact
-
-I turn complex backend problems into scalable, real-world solutions 🚀
-
----
+<!-- ======================= FOOTER ======================= -->
 
 <p align="center">
-🔥 Open to Backend / AI Engineer roles | Let’s build something impactful together!
+🔥 Open to Backend / AI Engineer Roles  
+💼 Let’s build scalable systems & impactful AI together 🚀
 </p>
