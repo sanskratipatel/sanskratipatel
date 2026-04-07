@@ -71,7 +71,7 @@ PostgreSQL • MongoDB • MySQL • Redis
 
 ### ⚡ Real-Time Systems
 <p>
-Socket.IO • Firebase Cloud Messaging
+Socket.IO • Firebase Cloud Messaging, RabbitMQ
 </p>
 
 ### 🤖 AI / GenAI
