@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-💻 Backend Engineer with **1.5+ years of experience**  
+💻 Backend Engineer with **2+ years of experience**  
 ⚡ Reduced API latency by **75% (2s → 500ms)**  
 📦 Built systems handling **1,000+ daily operations**  
 🤖 Hands-on with **AI systems (RAG, LLM APIs)**  
