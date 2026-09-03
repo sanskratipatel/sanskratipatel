@@ -33,7 +33,6 @@
 💻 Backend Engineer with **2+ years of experience**  
 ⚡ Reduced API latency by **75% (2s → 500ms)**  
 📦 Built systems handling **1,000+ daily operations**  
-🤖 Hands-on with **AI systems (RAG, LLM APIs)**  
 🚀 Promoted from **Intern → Full-Time**  
 
 I specialize in building **high-performance backend systems** and **AI-powered applications** that solve real-world problems.
