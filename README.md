@@ -69,25 +69,6 @@
 | **Integrations** | Zoho Books, Zoho CRM, Shiprocket, Delhivery |
 
 </details>
-
-### 🌟 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌾 [FarmHelp Agent](https://github.com/sanskratipatel/FarmHelp-Agent)
-
-A WhatsApp-style support agent for farmers (English, Hindi, Hinglish), built from scratch with every decision measured.
-
-- RAG with field-group + header/recursive chunking, multilingual embeddings, Chroma, hash-based sync
-- Retrieval eval by language exposed a Hinglish gap → query rewriting
-- Tools with the customer's phone injected from LangGraph state
-- Groq provider chain with Redis cooldowns, circuit breaker and LangSmith tracing
-- Guardrails: off-topic → "I don't know", inappropriate → "No", angry → apology first
-
-📐 [System design & decisions](https://github.com/sanskratipatel/FarmHelp-Agent/blob/main/docs/SYSTEM_DESIGN.md)
-
 </td>
 <td width="50%" valign="top">
 
