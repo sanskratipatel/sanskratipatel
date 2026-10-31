@@ -70,20 +70,6 @@
 
 </details>
 </td>
-<td width="50%" valign="top">
-
-#### ⏱️ [Job Scheduler](https://github.com/sanskratipatel/Job-Sheduler)
-
-A platform to create, schedule, pause, resume and monitor background jobs.
-
-- Safe concurrent workers with `SELECT … FOR UPDATE SKIP LOCKED`
-- Retries with exponential backoff
-- Leases plus a reaper for crash recovery
-- Docker Compose (API, workers, database, frontend), deployed on AWS EC2
-
-`FastAPI` `PostgreSQL` `React` `Docker` `AWS EC2`
-
-</td>
 </tr>
 </table>
 
@@ -93,7 +79,7 @@ A platform to create, schedule, pause, resume and monitor background jobs.
 |---|---|
 | **Backend Software Engineer** · Katyayani Organics, Bhopal | Oct 2024 – Present |
 | **Web Development Intern** · VeriTech Software IT Services | May 2024 – Jun 2024 |
-| **B.Tech, Information Technology** · RGPV Bhopal · CGPA 7.81 | 2020 – 2024 |
+| **B.Tech, Information Technology** · RGPV Bhopal · CGPA 7.9 | 2020 – 2024 |
 
 🏆 Ksolves AI Hackathon 2026 participant · 💻 200+ DSA problems on GeeksforGeeks · ⭐ HackerRank 4★ in Python and SQL
 
