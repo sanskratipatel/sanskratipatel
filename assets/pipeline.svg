@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="How I build an AI system: embedding, vector database, top-k retrieval, grounded context, LLM with tools, guardrails.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#040b1c"/><stop offset="0.55" stop-color="#0a1b38"/><stop offset="1" stop-color="#06122b"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#38bdf8" opacity="0.14"/></pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="bigglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="topf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#155e75"/><stop offset="1" stop-color="#0c3b5e"/></linearGradient>
+    <linearGradient id="side1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b2f52"/><stop offset="1" stop-color="#061a33"/></linearGradient>
+    <linearGradient id="side2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#082646"/><stop offset="1" stop-color="#04132a"/></linearGradient>
+    <style>
+      .label { font: 700 12.5px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #a5f3fc; letter-spacing: 1.6px; }
+      .desc { font: 400 11.5px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #7dd3fc; opacity: .8; }
+      .glyph { fill: #a5f3fc; } .glyph .g { fill: none; stroke: #a5f3fc; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+      .rail { stroke: #22d3ee; stroke-width: 2; stroke-dasharray: 6 7; opacity: .7; animation: flow 1.1s linear infinite; }
+      .float { animation: float 3.6s ease-in-out infinite; }
+      .shadow { animation: shadow 3.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes flow { to { stroke-dashoffset: -26; } }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+      @keyframes shadow { 0%, 100% { opacity: .22; transform: scale(1); } 50% { opacity: .1; transform: scale(.8); } }
+    </style>
+  </defs>
+  <rect width="1000" height="300" rx="18" fill="url(#bg)"/><rect width="1000" height="300" rx="18" fill="url(#dots)"/><rect x="1" y="1" width="998" height="298" rx="17" fill="none" stroke="#22d3ee" stroke-opacity=".25"/>
+  <line class="rail" x1="135" y1="156" x2="217" y2="156"/><line class="rail" x1="297" y1="156" x2="379" y2="156"/><line class="rail" x1="459" y1="156" x2="541" y2="156"/><line class="rail" x1="621" y1="156" x2="703" y2="156"/><line class="rail" x1="783" y1="156" x2="865" y2="156"/>
+  <circle r="4.5" fill="#fde68a" filter="url(#glow)"><animateMotion dur="5s" begin="0.0s" repeatCount="indefinite" path="M95 156 H905"/></circle><circle r="4.5" fill="#fde68a" filter="url(#glow)"><animateMotion dur="5s" begin="-1.25s" repeatCount="indefinite" path="M95 156 H905"/></circle><circle r="4.5" fill="#fde68a" filter="url(#glow)"><animateMotion dur="5s" begin="-2.5s" repeatCount="indefinite" path="M95 156 H905"/></circle><circle r="4.5" fill="#fde68a" filter="url(#glow)"><animateMotion dur="5s" begin="-3.75s" repeatCount="indefinite" path="M95 156 H905"/></circle>
+  
+  <ellipse cx="95" cy="204" rx="50" ry="10" fill="#22d3ee" opacity=".18" class="shadow" style="animation-delay:0.0s"/>
+  <g class="float" style="animation-delay:0.0s">
+    <polygon points="39,110 95,138 95,174 39,146" fill="url(#side1)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="95,138 151,110 151,146 95,174" fill="url(#side2)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="95,82 151,110 95,138 39,110" fill="url(#topf)" stroke="#67e8f9" stroke-width="1.5" filter="url(#glow)"/>
+    <g transform="matrix(1.4 0.7 -1.4 0.7 95 110)" class="glyph"><circle cx="-9" cy="-9" r="3"/><circle cx="9" cy="-9" r="3"/><circle cx="0" cy="0" r="3"/><circle cx="-9" cy="9" r="3"/><circle cx="9" cy="9" r="3"/><path class="g" d="M-9 -9 L0 0 L9 -9 M-9 9 L0 0 L9 9"/></g>
+  </g>
+  <text x="95" y="240" text-anchor="middle" class="label">EMBEDDING</text>
+  <text x="95" y="258" text-anchor="middle" class="desc">multilingual vectors</text>
+  <ellipse cx="257" cy="204" rx="50" ry="10" fill="#22d3ee" opacity=".18" class="shadow" style="animation-delay:0.45s"/>
+  <g class="float" style="animation-delay:0.45s">
+    <polygon points="201,110 257,138 257,174 201,146" fill="url(#side1)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="257,138 313,110 313,146 257,174" fill="url(#side2)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="257,82 313,110 257,138 201,110" fill="url(#topf)" stroke="#67e8f9" stroke-width="1.5" filter="url(#glow)"/>
+    <g transform="matrix(1.4 0.7 -1.4 0.7 257 110)" class="glyph"><circle class="g" cx="0" cy="0" r="12"/><circle class="g" cx="0" cy="0" r="7"/><circle cx="0" cy="0" r="2.5"/></g>
+  </g>
+  <text x="257" y="240" text-anchor="middle" class="label">VECTOR DB</text>
+  <text x="257" y="258" text-anchor="middle" class="desc">Chroma · pgvector · HNSW</text>
+  <ellipse cx="419" cy="204" rx="50" ry="10" fill="#22d3ee" opacity=".18" class="shadow" style="animation-delay:0.9s"/>
+  <g class="float" style="animation-delay:0.9s">
+    <polygon points="363,110 419,138 419,174 363,146" fill="url(#side1)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="419,138 475,110 475,146 419,174" fill="url(#side2)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="419,82 475,110 419,138 363,110" fill="url(#topf)" stroke="#67e8f9" stroke-width="1.5" filter="url(#glow)"/>
+    <g transform="matrix(1.4 0.7 -1.4 0.7 419 110)" class="glyph"><circle cx="-8" cy="-8" r="2.2" opacity=".4"/><circle cx="0" cy="-8" r="3.2"/><circle cx="8" cy="-8" r="2.2" opacity=".4"/><circle cx="-8" cy="0" r="3.2"/><circle cx="0" cy="0" r="2.2" opacity=".4"/><circle cx="8" cy="0" r="2.2" opacity=".4"/><circle cx="-8" cy="8" r="2.2" opacity=".4"/><circle cx="0" cy="8" r="2.2" opacity=".4"/><circle cx="8" cy="8" r="3.2"/></g>
+  </g>
+  <text x="419" y="240" text-anchor="middle" class="label">TOP-K</text>
+  <text x="419" y="258" text-anchor="middle" class="desc">k=3 · distance threshold</text>
+  <ellipse cx="581" cy="204" rx="50" ry="10" fill="#22d3ee" opacity=".18" class="shadow" style="animation-delay:1.35s"/>
+  <g class="float" style="animation-delay:1.35s">
+    <polygon points="525,110 581,138 581,174 525,146" fill="url(#side1)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="581,138 637,110 637,146 581,174" fill="url(#side2)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="581,82 637,110 581,138 525,110" fill="url(#topf)" stroke="#67e8f9" stroke-width="1.5" filter="url(#glow)"/>
+    <g transform="matrix(1.4 0.7 -1.4 0.7 581 110)" class="glyph"><path class="g" d="M-10 -13 H6 L11 -8 V13 H-10 Z M-6 -5 H6 M-6 1 H6 M-6 7 H2"/></g>
+  </g>
+  <text x="581" y="240" text-anchor="middle" class="label">CONTEXT</text>
+  <text x="581" y="258" text-anchor="middle" class="desc">grounded, cited</text>
+  <ellipse cx="743" cy="204" rx="50" ry="10" fill="#22d3ee" opacity=".18" class="shadow" style="animation-delay:1.8s"/>
+  <g class="float" style="animation-delay:1.8s">
+    <polygon points="687,110 743,138 743,174 687,146" fill="url(#side1)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="743,138 799,110 799,146 743,174" fill="url(#side2)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="743,82 799,110 743,138 687,110" fill="url(#topf)" stroke="#67e8f9" stroke-width="1.5" filter="url(#glow)"/>
+    <g transform="matrix(1.4 0.7 -1.4 0.7 743 110)" class="glyph"><path class="g" d="M0 -12 L11 -6 V6 L0 12 L-11 6 V-6 Z M-11 -6 L0 0 L11 -6 M0 0 V12"/></g>
+  </g>
+  <text x="743" y="240" text-anchor="middle" class="label">LLM + TOOLS</text>
+  <text x="743" y="258" text-anchor="middle" class="desc">LangGraph · tool calling</text>
+  <ellipse cx="905" cy="204" rx="50" ry="10" fill="#22d3ee" opacity=".18" class="shadow" style="animation-delay:2.25s"/>
+  <g class="float" style="animation-delay:2.25s">
+    <polygon points="849,110 905,138 905,174 849,146" fill="url(#side1)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="905,138 961,110 961,146 905,174" fill="url(#side2)" stroke="#22d3ee" stroke-opacity=".55"/>
+    <polygon points="905,82 961,110 905,138 849,110" fill="url(#topf)" stroke="#67e8f9" stroke-width="1.5" filter="url(#glow)"/>
+    <g transform="matrix(1.4 0.7 -1.4 0.7 905 110)" class="glyph"><path class="g" d="M0 -13 L11 -9 V0 C11 7 6 11 0 13 C-6 11 -11 7 -11 0 V-9 Z M-5 0 L-1 4 L6 -4"/></g>
+  </g>
+  <text x="905" y="240" text-anchor="middle" class="label">GUARDRAILS</text>
+  <text x="905" y="258" text-anchor="middle" class="desc">own data only · evals</text>
+</svg>
